@@ -26,4 +26,4 @@ Below is the english pipeline
 nlp = spacy.load("en_core_web_sm")
 ```
 ## Resources
-(Culstering Visualization)[https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a]
+[Culstering Visualization](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
